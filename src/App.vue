@@ -2,7 +2,7 @@
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 let a = 1
-console.log('abc', a)
+console.log('abcd', a)
 </script>
 
 <template>
